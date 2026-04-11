@@ -1,26 +1,21 @@
-# Hi, I'm Talha 👋
+# Hi, I'm Talha Tahir 👋
 
-Data Science student @ UMT Lahore — I build ML systems that actually ship.
+Data Science Student @ UMT Lahore | ML Engineer in Progress
 
-While most students are still in Jupyter, I'm deploying live APIs on AWS
-with automated CI/CD pipelines.
+## What I Build
+- End-to-end ML pipelines from raw data to deployed APIs
+- REST APIs with FastAPI, containerized with Docker
+- AWS ECS deployments with GitHub Actions CI/CD
+- MLflow experiment tracking for reproducible ML
 
-## 🚀 What I Build
-- End-to-end ML pipelines — raw data to production REST APIs
-- FastAPI services wrapped around every model
-- Docker + AWS ECS deployments with GitHub Actions CI/CD
+## Featured Projects
+- 🚲 [Bike Demand Forecasting](https://github.com/TalhaTahir250/-bike-demand-forecast)
+  — Ridge regression, Optuna tuning, 20% MAPE, AWS ECS
+- 📱 [Telco Churn Prediction](https://github.com/TalhaTahir250/telco-churn-prediction)
+  — XGBoost, 97.3% recall, MLflow, FastAPI, Docker
 
-## 🛠️ Stack
-Python · Scikit-learn · XGBoost · FastAPI · Docker · AWS ECS · MLflow · GitHub Actions
+## Tech Stack
+Python · Scikit-learn · XGBoost · FastAPI · Docker · MLflow · Optuna · AWS
 
-## 📌 Featured Projects
-- 🚲 [Bike Demand Forecasting](https://github.com/TalhaTahir250/-bike-demand-forecast) — Live on AWS ECS with CI/CD
-- 📉 Telco Churn Prediction — XGBoost + MLflow + Gradio UI, deployed on AWS
-
-## ✍️ I Also Write
-Publishing ML articles on Medium as I build and learn.
-→ [medium.com/@Muhammad_Talha_Tahir](https://medium.com/@Muhammad_Talha_Tahir)
-
-## 📫 Connect
-- LinkedIn: [muhammad-talha-tahir](https://linkedin.com/in/talha-tahir-b4635a31b)
-- GitHub: [@TalhaTahir250](https://github.com/TalhaTahir250)
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/talha-tahir-b4635a31b/)
