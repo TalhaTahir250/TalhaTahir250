@@ -10,6 +10,14 @@ Currently, I’m an **AI Engineer Intern at ClosetAI (PM Accelerator)** and a **
 
 ---
 
+## Live product
+
+### [Try ClosetAI ↗](https://closet-ai-six-nu.vercel.app/)
+
+Explore the live ClosetAI web app: [closet-ai-six-nu.vercel.app](https://closet-ai-six-nu.vercel.app/).
+
+---
+
 ## What I work on
 
 - **Generative AI & retrieval:** LLM applications, RAG, embeddings, semantic and hybrid search, pgvector, LangChain, LlamaIndex
